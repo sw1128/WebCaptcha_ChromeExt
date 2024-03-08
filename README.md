@@ -1,0 +1,2 @@
+# WebCaptcha_ChromeExt
+一个用于识别和填写网页中图形验证码的Chrome扩展 
