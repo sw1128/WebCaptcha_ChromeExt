@@ -2,7 +2,7 @@
 
 ## 一个用于识别和填写网页中图形验证码的Chrome扩展 
 
-1、下载 `WebCaptcha_ChromeExt.zip` 压缩包 (蓝奏云：https://www.lanzoub.com/ikRy11qr3etg)
+1、下载 `WebCaptcha_ChromeExt.zip` 压缩包 ( 蓝奏云：https://www.lanzoub.com/iQ22g1qr46vg )
 
 2、解压到任意文件夹中
 
